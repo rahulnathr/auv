@@ -16,7 +16,7 @@ class console1(mp_module.MPModule):
 
 		self.master.arducopter_arm()    #arm the module 
 		channels=self.override
-		self.set_override(channels[4]=1450) # trying to set the yaw channel on rc channel 4
+		self.set_override(channels[4]=1450) # trying to set the yaw channel on rc channel 4 tp pwm 1450
 		#i am using a simplerov ardusub firmware.
 		
 		

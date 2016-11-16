@@ -57,7 +57,7 @@ class console1(mp_module.MPModule):
 
 	def channelchange(self):
 		channels=self.override
-		channels[5]=1200
+		channels[5]=1200  #fwd.back control.yet cannot change the motor direction
 		self.set_override(channels)
 
 

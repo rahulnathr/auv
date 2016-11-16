@@ -57,7 +57,7 @@ class console1(mp_module.MPModule):
 
 	def channelchange(self):
 		channels=self.override
-		channels[2]=1150
+		channels[5]=1200
 		self.set_override(channels)
 
 

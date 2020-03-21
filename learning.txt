@@ -1,2 +1,6 @@
 Trying out Git
 Learned somthing new
+
+
+adding more stuffs here to learn git control version
+

@@ -5,3 +5,7 @@
 * [Third page of the Book](third-page-of-the-book.md)
 * [Untitled](untitled-1.md)
 
+## Learning Resources
+
+* [Deep Learning](learning-resources/deep-learning.md)
+
